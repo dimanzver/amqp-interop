@@ -1,5 +1,5 @@
 {
-  "name": "queue-interop/amqp-interop",
+  "name": "dimanzver/amqp-interop",
   "description": "AMQP interop",
   "type": "library",
   "license": "MIT",
